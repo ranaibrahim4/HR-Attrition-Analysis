@@ -1,0 +1,14 @@
+DepartmentName,JobRoleName,AttritionCount,AverageMonthlyIncome
+Finance,Financial Analyst,22,8257.89
+Research & Development,Laboratory Technician,22,5395.24
+Research & Development,Research Scientist,22,7649.44
+Sales,Sales Executive,22,9493.4
+Sales,Sales Representative,18,4872.13
+Operations,Operations Specialist,16,7040.91
+Finance,Finance Manager,7,16400.0
+Human Resources,HR Specialist,7,6332.43
+Operations,Operations Manager,5,14931.25
+Research & Development,Research Director,4,19635.29
+Human Resources,HR Manager,3,13311.76
+Research & Development,Manufacturing Director,3,15075.0
+Sales,Sales Manager,3,16690.0
