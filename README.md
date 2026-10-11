@@ -107,4 +107,4 @@ The main measures are:
 - Minimum Monthly Income
 
 
-    Rate
+
